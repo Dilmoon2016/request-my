@@ -92,7 +92,7 @@ api.ajax({
 })
 ```
 Browser globals
-
+```js
 <script type="text/javascript" src="./dist/index.js"></script>
 <script>
 api.ajax({
@@ -109,3 +109,4 @@ api.ajax({
     }
 })
 </script>
+```
