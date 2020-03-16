@@ -39,8 +39,8 @@ The dist folder contains index.js.
 
 ```js
 
-'<script type="text/javascript" src="./dist/index.js"></script>'
-'<script>'
+<script type="text/javascript" src="./dist/index.js"></script>
+<script>
 api.ajax({
     url:'xxx:3000/post',
     type:'post',
@@ -54,7 +54,7 @@ api.ajax({
       console.log(err);
     }
 })
-'</script>'
+</script>
 ```
 
 # request-my

@@ -3,6 +3,13 @@
   "version": "1.0.6",
   "description": "A client http request",
   "main": "index.js",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "axios",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dilmoon2016/request-mygit"
+  },
   "scripts": {
     "test": "no"
   },
