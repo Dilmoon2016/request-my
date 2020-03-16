@@ -1,0 +1,16 @@
+{
+  "name": "request-my",
+  "version": "1.0.6",
+  "description": "A client http request",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "keywords": [
+    "http",
+    "api",
+    "request"
+  ],
+  "author": "LEO",
+  "license": "ISC"
+}
