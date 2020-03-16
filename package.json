@@ -1,14 +1,11 @@
 {
   "name": "request-my",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A client http request",
   "main": "index.js",
-  "license": "MIT",
-  "main": "index.js",
-  "name": "axios",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dilmoon2016/request-mygit"
+    "url": "git+https://github.com/Dilmoon2016/request-my.git"
   },
   "scripts": {
     "test": "no"
@@ -19,5 +16,5 @@
     "request"
   ],
   "author": "LEO",
-  "license": "ISC"
+  "license": "MIT"
 }
