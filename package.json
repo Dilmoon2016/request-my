@@ -1,14 +1,15 @@
 {
   "name": "request-my",
-  "version": "1.0.7",
-  "description": "A client http request",
+  "version": "1.0.10",
+  "description": "A small client http request",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Dilmoon2016/request-my.git"
   },
   "scripts": {
-    "test": "no"
+    "build": "webpack",
+    "test": ""
   },
   "keywords": [
     "http",
@@ -16,5 +17,9 @@
     "request"
   ],
   "author": "LEO",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+
+  },
+  "dependencies": {}
 }

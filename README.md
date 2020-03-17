@@ -39,7 +39,7 @@ The dist folder contains index.js.
 
 ```js
 
-<script type="text/javascript" src="./dist/index.js"></script>
+<script type="text/javascript" src="./dist/request-my.min.js"></script>
 <script>
 api.ajax({
     url:'xxx:3000/post',
@@ -93,7 +93,7 @@ api.ajax({
 ```
 Browser globals
 ```js
-<script type="text/javascript" src="./dist/index.js"></script>
+<script type="text/javascript" src="./dist/request-my.min.js"></script>
 <script>
 api.ajax({
     url:'xxx:3000/post',
